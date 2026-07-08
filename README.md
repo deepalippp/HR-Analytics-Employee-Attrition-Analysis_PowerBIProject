@@ -1,0 +1,2 @@
+# HR-Analytics-Employee-Attrition-Analysis_PowerBIProject
+Developed an interactive Power BI dashboard to analyze employee attrition across departments, salary slabs, job roles, experience, age, gender, and job satisfaction. The dashboard helps HR identify key drivers of employee turnover, monitor workforce trends, and make data-driven decisions to improve employee retention and organizational performance
